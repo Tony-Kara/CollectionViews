@@ -14,6 +14,7 @@
 		CE36B07A27CE396B00916167 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE36B07927CE396B00916167 /* Assets.xcassets */; };
 		CE36B07D27CE396B00916167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE36B07B27CE396B00916167 /* LaunchScreen.storyboard */; };
 		CE36B08527CE435400916167 /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE36B08427CE435400916167 /* PhotoCollectionViewCell.swift */; };
+		CE36B08727CF7C2F00916167 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE36B08627CF7C2F00916167 /* Profile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CE36B07C27CE396B00916167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE36B07E27CE396B00916167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE36B08427CE435400916167 /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
+		CE36B08627CF7C2F00916167 /* Profile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				CE36B07027CE396A00916167 /* AppDelegate.swift */,
+				CE36B08627CF7C2F00916167 /* Profile.swift */,
 				CE36B07227CE396A00916167 /* SceneDelegate.swift */,
 				CE36B08427CE435400916167 /* PhotoCollectionViewCell.swift */,
 				CE36B07427CE396A00916167 /* ViewController.swift */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE36B07527CE396A00916167 /* ViewController.swift in Sources */,
+				CE36B08727CF7C2F00916167 /* Profile.swift in Sources */,
 				CE36B08527CE435400916167 /* PhotoCollectionViewCell.swift in Sources */,
 				CE36B07127CE396A00916167 /* AppDelegate.swift in Sources */,
 				CE36B07327CE396A00916167 /* SceneDelegate.swift in Sources */,

@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CollectionViews
 //
-//  Created by User on 01.03.2022.
+//  Created by Tony on 01.03.2022.
 //
 
 import UIKit
